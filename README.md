@@ -2,6 +2,17 @@
 
 ###
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/lucasheideric/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/lucasheideric/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
+###
+
 <p align="left">Software Engineer with experience in web development, always seeking to understand the depth of how things work and how to apply them in the best way.</p>
 
 ###
