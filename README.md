@@ -1,16 +1,8 @@
-<h1 align="center">Hi, I'm Lucas Heideric</h1>
-
-###
-
-<div align="center">
+<h1 align="center">Hi, I'm Lucas Heideric     
   <a href="https://www.linkedin.com/in/lucasheideric/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="32" alt="linkedin logo" />
   </a>
-  
-  <a href="https://www.instagram.com/lucasheideric/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
-  </a>
-</div>
+</h1>
 
 ###
 
