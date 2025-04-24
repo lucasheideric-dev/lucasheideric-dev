@@ -108,6 +108,3 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lucasheideric-dev/lucasheideric-dev/output/pacman-contribution-graph.svg">
 </picture>
 
-###
-
-###
